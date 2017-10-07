@@ -4,6 +4,7 @@ Expo recently released ExpoAR. Here's the introductory blogpost:
 https://blog.expo.io/introducing-expo-ar-mobile-augmented-reality-with-javascript-powered-by-arkit-b0d5a02ff23
 
 It contains a walkthrough of half the material we covered in the calhacks workshop.
+
 The sourcecode for the "floating ducks" example in that blog post is here:
 https://github.com/expo/dire-dire-ducks
 
