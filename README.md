@@ -39,7 +39,7 @@ https://free3d.com/3d-model/toon-teddy-bear-57474.html
 
 -------------------------------------------------------------
 
-We're here if you have any questions! Find as at the Expo table, especially in the afternoon Saturday all the way through judging Sunday.
+We're here if you have any questions! Find as at the Expo table in the lofted area above the central tables within the Plaza floor. We'll be there especially in the afternoon Saturday all the way through judging Sunday.
 
 Good luck! We can't wait to see what people make!
 
