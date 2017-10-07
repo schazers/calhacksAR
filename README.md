@@ -29,6 +29,12 @@ brew install npm
 
 -------------------------------------------------------------
 
+If you want to learn more about three.js, the popular 3d graphics library for javascript and WebGL programming, here's the website:
+https://threejs.org/
+It's full of valuable examples and documentation.
+
+-------------------------------------------------------------
+
 If you want to load custom 3d objects from online, you can google for .obj files.
 This website has lots of good free ones:
 www.free3d.com
